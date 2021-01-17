@@ -24,7 +24,8 @@ Aside from thinking about my next super cool Open Source project, I work as a fr
 #### What I'm learning :book:
 
 Everyday I think about how it would feel like to have a diverse skillset across various stacks in tech, and so I figured i might as well just start now, Here's a list of technologies/tools/concepts I intend to grasp before the year runs out:
-- Ionic
+- React
+- React Native
 - TypeScript
 - Node.js
 - UI/UX
