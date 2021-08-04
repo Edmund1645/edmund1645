@@ -24,11 +24,12 @@ Aside from thinking about my next super cool Open Source project, I work as a fr
 #### What I'm learning :book:
 
 Everyday I think about how it would feel like to have a diverse skillset across various stacks in tech, and so I figured i might as well just start now, Here's a list of technologies/tools/concepts I am currently working with.
-- React
-- React Native
-- TypeScript
-- Node.js
+- React ✅
+- React Native ✅
+- TypeScript ✅
+- Node.js ✅
 - UI/UX
+- Google Cloud Platform
 
 #### You can ask me about :fax:
 
