@@ -19,7 +19,7 @@ Hello!! welcome!!!! the name's Edmund Ekott, for the most part I'm a Frontend En
 
 #### What I work on these days :briefcase:
 
-Aside from thinking about my next super cool Open Source project, I work as a freelance Frontend Engineer on various projects, I also write articles about the web on a number of publications including my [personal blog](https://theninja.blog).
+Aside from thinking about my next super cool Open Source project, I build tiny demo apps to solve problems I have as a developer or in my every day life, I also write articles about the web on a number of publications including my [personal blog](https://theninja.blog).
 
 #### What I'm learning :book:
 
@@ -28,8 +28,9 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - React Native ✅
 - TypeScript ✅
 - Node.js ✅
-- UI/UX
+- Blockchain Development/web3 ⏳
 - Google Cloud Platform
+- UI/UX
 
 #### You can ask me about :fax:
 
