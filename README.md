@@ -29,8 +29,8 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - TypeScript ✅
 - Node.js ✅
 - Blockchain Development/web3 ⏳
-- Google Cloud Platform
-- UI/UX
+- Algo & DS ⏳
+- Google Cloud Platform 🤏
 
 #### You can ask me about :fax:
 
@@ -40,4 +40,4 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - Browsers
 - Technology trends
 
-[Email me!!](mailto:edmund.timfon@gmail.com) | [My website](https://timfon.dev)
+[Email me 👍](mailto:edmund.timfon@gmail.com) | [My website 🌐](https://timfon.dev) | [Proof of concepts 🧑‍💻](https://github.com/edmund1645-demos)
