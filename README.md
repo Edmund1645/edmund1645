@@ -19,7 +19,7 @@ Hello!! welcome!!!! the name's Edmund Ekott, for the most part I'm a Frontend En
 
 #### What I work on these days :briefcase:
 
-Aside from thinking about my next super cool Open Source project, I build tiny demo apps to solve problems I have as a developer or in my every day life, I also write articles about the web on a number of publications including my [personal blog](https://theninja.blog).
+Aside from thinking about my next super cool Open Source project, I build tiny demo apps to solve problems I have as a developer or in my every day life.
 
 #### What I'm learning :book:
 
@@ -30,12 +30,12 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - Node.js ✅
 - Blockchain Development/web3 ⏳
 - Algo & DS ⏳
-- Google Cloud Platform 🤏
+- System architechture ⏳
 
 #### You can ask me about :fax:
 
 - JavaScript
-- Vue.js
+- Vue.js, React.js
 - CSS
 - Browsers
 - Technology trends
