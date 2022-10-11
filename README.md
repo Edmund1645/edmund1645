@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello!! welcome!!!! the name's Edmund Ekott, for the most part I'm a Frontend Engineer but I do anything revolving around the web using JavaScript with the right motivation :new_moon_with_face:.
+Hello!! welcome!!!! the name's Edmund Ekott, for the most part I'm a Frontend Engineer but I do anything revolving around the web using JavaScript to feed my curiosity.
 
 #### What I work on these days :briefcase:
 
