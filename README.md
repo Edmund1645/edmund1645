@@ -40,4 +40,4 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - Browsers
 - Technology trends
 
-[Email me 👍](mailto:hey@timfon.dev) | [My website 🌐](https://timfon.dev) | [Proof of concepts 🧑‍💻](https://github.com/edmund1645-demos)
+[My website 🌐](https://timfon.dev) | [Proof of concepts 🧑‍💻](https://github.com/edmund1645-demos)
