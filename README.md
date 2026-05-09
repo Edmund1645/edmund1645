@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello!! welcome!!!! the name's Edmund Ekott, for the most part I'm a Frontend Engineer but I do anything revolving around the web using JavaScript to feed my curiosity.
+Hello!! welcome!!!! the name's Edmund Ekott, for the most part I'm a Full-stack software Developer building scalabla products.
 
 #### What I work on these days :briefcase:
 
@@ -24,19 +24,16 @@ Aside from thinking about my next super cool Open Source project, I build tiny d
 #### What I'm learning :book:
 
 Everyday I think about how it would feel like to have a diverse skillset across various stacks in tech, and so I figured i might as well just start now, Here's a list of technologies/tools/concepts I am currently working with.
-- React ✅
-- React Native ✅
-- TypeScript ✅
-- Node.js ✅
-- Blockchain Development/web3 ⏳
+- Java / Spring Boot ⏳
 - Algo & DS ⏳
 - System architechture ⏳
 
 #### You can ask me about :fax:
 
-- JavaScript
+- JavaScript, Typescript
 - Vue.js, React.js
-- CSS
+- Node.js and Backend frameworks
+- Databases & ORMs
 - Browsers
 - Technology trends
 
